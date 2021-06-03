@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../workspace-java"
+		},
+		{
+			"path": "../workspace-node"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
