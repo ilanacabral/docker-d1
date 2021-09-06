@@ -1,6 +1,9 @@
 {
 	"folders": [
 		{
+			"path": "."
+		},
+		{
 			"path": "workspace-go"
 		},
 		{
@@ -12,6 +15,7 @@
 	],
 	"remoteAuthority": "wsl+Ubuntu",
 	"settings": {
-		"java.configuration.updateBuildConfiguration": "automatic"
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"git.ignoreLimitWarning": true
 	}
 }
